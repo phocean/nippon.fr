@@ -7,8 +7,16 @@ description: フランス、パリ/ブローニュで探す英語家庭教師。
 permalink: index.html
 ---
 
-## Home
+{% for post in site.posts %}
 
-**日本人女性講師（英検1級/仏検1級/TOEIC970/通訳資格有)による英語レッスン**
+<article class='post'>
+  <h1 class='post-title'>
+    <a href="{{ site.path }}{{ post.url }}">
+      {{ post.title }}
+    </a>
+  </h1>
+  <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
+  {{ post.content }}
+</article>
 
-*詳細はメールにてお気軽にお問い合わせください。
+{% endfor %}
