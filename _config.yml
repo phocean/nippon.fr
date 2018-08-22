@@ -8,6 +8,12 @@ author:
 
 baseurl: /
 
+defaults:
+  - scope:
+      path: "img"
+    values:
+      image: true
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
