@@ -8,16 +8,6 @@ author:
 
 baseurl: /
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-include: ['_pages']
-
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
