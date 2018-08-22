@@ -6,7 +6,7 @@ author:
   email: "aki@akispace.net"
   url: "https://phocean.github.io/nippon.fr"
 
-baseurl: /nippon.fr/
+baseurl: /nippon.fr
 
 defaults:
   - scope:
