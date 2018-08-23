@@ -1,0 +1,11 @@
+---
+weigth: 200
+entry: English
+layout: page
+permalink: /english/
+title: English
+---
+
+{% for post in site.categories.english %}
+    <li>{{ post.title }}</li>
+{% endfor %}
