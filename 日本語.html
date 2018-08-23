@@ -9,8 +9,8 @@ title: 日本語
 {% for post in site.categories.japanese %}
     <li>
         <a href="{{ site.baseurl }}{{ post.url }}">
-            <time>{{ post.date | date: "%d/%m/%y" }}</time>
-            <tab>{{ post.title }}</tab>
+            {{ post.title }}
+            &nbsp;<small class="post-date">({{ post.date | date: "%d/%m/%y" }})</small>
         </a>
     </li>
 {% endfor %}
