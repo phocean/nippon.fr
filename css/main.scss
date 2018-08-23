@@ -27,8 +27,7 @@ tagcloud {
 
     a {
       text-decoration:none;
-      //color:#DB0058;
-      color: $colorPink;
+      color:#DB0058;
       font-family:Arial;
       font-weight:bold;
 
@@ -44,8 +43,7 @@ tagcloud {
     opacity:0.3;
 
     &:hover {
-      //color:#0B61A4;
-      color: $colorDarkBlue;
+      color:#0B61A4;
       opacity:1;
     }
   }
