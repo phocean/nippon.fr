@@ -1,0 +1,12 @@
+---
+weigth: 200
+entry: 日本語
+layout: page
+permalink: /日本語/
+title: 日本語
+---
+
+{% for post in site.categories.日本語 %}
+    <li>{{ post.title }}</li>
+{% endfor %}
+
