@@ -1,12 +1,12 @@
 title: "Nippon.fr"
-description: "Stories about Japan."
-url: "https://phocean.github.io/nippon.fr"
+description: "Stories about Japan and France."
+url: "https://nippon.fr"
 author:
   name: "Nippon.fr"
   email: "aki@akispace.net"
-  url: "https://phocean.github.io/nippon.fr"
+  url: "https://nippon.fr"
 
-baseurl: /nippon.fr
+baseurl: /
 
 defaults:
   - scope:
