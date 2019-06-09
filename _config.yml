@@ -15,7 +15,7 @@ defaults:
       image: true
 
 # Custom variables
-version: "1.0.0"
+version: "1.0.1"
 
 # Options
 permalink: pretty
