@@ -14,14 +14,11 @@ defaults:
     values:
       image: true
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-
 # Custom variables
 version: "1.0.0"
 
 # Options
-custom_header: false
+permalink: pretty
+custom_header: true
 custom_nav_footer: false
 reverse: false
