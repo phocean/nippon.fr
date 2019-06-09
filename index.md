@@ -4,7 +4,6 @@ weight: 100
 entry: Home
 title: パリ英語家庭教師
 description: Tout ce que vous voulez savoir sur le Japon, loin des clichés, par un couple franco-japonais. 日仏カップルによるフランスの情報.
-permalink: index.html
 ---
 
 ### ようこそ
