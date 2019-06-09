@@ -26,4 +26,4 @@ Nous espérons vivement que, simples curieux ou passionnés du Japon, vous prend
 
 Bonne visite !
 
-![Home]({{ site.baseurl }}/img/home2.jpg)
+![Home](/img/home2.jpg)
