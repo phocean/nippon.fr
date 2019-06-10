@@ -17,6 +17,9 @@ defaults:
 # Custom variables
 version: "1.0.0"
 
+plugins:
+  - jekyll-sitemap
+
 # Options
 permalink: pretty
 custom_header: true
