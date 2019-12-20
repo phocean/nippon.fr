@@ -2,7 +2,7 @@
 layout: page
 weight: 100
 entry: Home
-title: パリ英語家庭教師
+title: Nippon.fr
 description: Tout ce que vous voulez savoir sur le Japon, loin des clichés, par un couple franco-japonais. 日仏カップルによるフランスの情報.
 ---
 
